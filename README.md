@@ -10,6 +10,7 @@
 * 常用语言：`html` `css` `JavaScript`
 * 常用框架：`Vue.js`
 * 最爱工具：`VSCode`
+* ![](https://img.shields.io/badge/%E7%BC%96%E8%BE%91%E5%99%A8-VScode-blue)
 * 艺术细胞：熟悉`PhotoShop`和`Premiere`的简单使用
 ## 2021愿望
 * 学素描和板绘
